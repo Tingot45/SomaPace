@@ -1,0 +1,6 @@
+{
+  "name": "SomaPace",
+  "description": "Smart, self-paced learning for Kenyan students in Grades 4-10. Bite-sized lessons, quizzes, and flashcards built for the Kenyan Competency-Based Curriculum (CBC).",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
